@@ -1,5 +1,4 @@
-# baseurl = "https://me.dyr.sh/"
-baseurl = "https://reimer.fyi/"
+baseurl = "https://me.dyr.sh/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
@@ -16,7 +15,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Paul Reimer"
+    title = "dyr"
     # subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
@@ -31,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Paul Reimer"
+      logoText = "dyr"
       logoHomeLink = "/"
     # or
     #

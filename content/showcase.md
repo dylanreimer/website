@@ -12,6 +12,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum met
 
 Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, `odio a dignissim pharetra`, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
 
+markdown ntyping woo **bold tesdt** *testing*.
+
+---
+
+Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, `odio a dignissim pharetra`, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
+
+markdown ntyping woo **bold tesdt** *testing*. That is so funny!
+
+~~The world is flat.~~
+
 ```css
 /* PostCSS code */
 
